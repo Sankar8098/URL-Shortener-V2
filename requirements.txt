@@ -1,5 +1,4 @@
 aiohttp==3.8.1
-git+https://github.com/MKN-BOTZ/pyrogram
 motor==2.5.1
 Pyrogram==2.0.106
 TgCrypto==1.2.3
